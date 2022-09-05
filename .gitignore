@@ -1,0 +1,4 @@
+.mypy_cache
+todoServer
+.DS_Store
+.vscode

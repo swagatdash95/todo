@@ -1,0 +1,6 @@
+mypy
+autopep8
+pylint
+isort
+fastapi
+uvicorn
